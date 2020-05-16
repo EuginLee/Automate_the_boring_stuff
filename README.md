@@ -1,5 +1,8 @@
 # automate_the_boring_stuff
-Projects, productivity tools, templates inspired by ATBRWP book
+Projects, productivity tools, templates inspired by ATBRWP book  
+
+Thank you to the awesome Al Sweigart for making this free for novices like myself.  
+Weblink: https://automatetheboringstuff.com/
 
 |NO.        |Name                          |Discription                   |Library used| Link
 |-----------|-------------------------------|-----------------------------|------------|-----
